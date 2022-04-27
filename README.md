@@ -1,2 +1,2 @@
 # SimpleBootstrapForm
-A simple practice regsitration form using bootsrap
+A simple practice registration form using bootsrap
